@@ -1,0 +1,27 @@
+.container{
+    margin-bottom: 100px;
+}
+.panda-card{
+    border:0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+    border-radius: 1em;
+}
+.nike{
+    color: tomato;
+}
+.run{
+    color: darkslateblue;
+}
+.casual{
+    color:darkslategrey;
+}
+.price{
+    color: tomato;
+}
+.formal{
+    color: slategrey;
+}
+
